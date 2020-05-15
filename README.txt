@@ -1,5 +1,6 @@
 this is cloned by gowtham
 This is a sample project students can use during Matthew's Git class.
+this is git project
 
 Here is an addition by me
 
